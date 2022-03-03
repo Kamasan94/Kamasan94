@@ -7,8 +7,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/Kamasan)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/Kamasan)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/Kamasan#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/Kamasan#gh-dark-mode-only)
 
 
 ### Languages and Tools:
@@ -30,4 +30,4 @@
 
 ---
 
-[linkedin]: www.linkedin.com/in/Kamasan
+[linkedin]: www.linkedin.com/in/kamasan
