@@ -3,7 +3,7 @@
 ## I'm a Developer, Musician and Climber!
 
 - 🌱 Loving nautre
-- 🥅 2022 Goals: Learn more about Java and Python!
+- 🥅 2023 Goals: Learn more about Javascript and Python!
 
 ### Connect with me:
 
